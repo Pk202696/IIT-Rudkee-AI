@@ -3,7 +3,7 @@ Overview
 This repository contains the solutions for the Artificial Intelligence (AI) assignments for the course at IIT Roorkee. The assignments cover various essential topics in AI and Deep Learning, including Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Natural Language Processing (NLP). Each module focuses on different aspects of AI, providing hands-on experience with key concepts and frameworks.
 
 
-**Table of Contents **
+**Table of Contents **       
 Module 1: Introduction to Deep Learning
 Module 2: Introduction to Neural Networks
 Module 3: Introduction to NN Frameworks
@@ -16,7 +16,7 @@ Module 9: Introduction to NLP
 
 
 
-**File Structure **
+**File Structure **          
 Module_1_Introduction_to_Deep_Learning-Assignment.ipynb  # Assignment on deep learning fundamentals
 Module_2_Introduction_to_Neural_Networks_Assignment_ans-1.ipynb  # Basic introduction to neural networks
 Module_3_Introduction_to_NN_Frameworks_Assignment.ipynb  # Introduction to neural network frameworks
